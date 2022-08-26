@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">
@@ -21,8 +21,9 @@ mui_responsive_social-app
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <h4><strong>Client Page</strong></h4>
-<img src="images/ss-1.png" alt="Logo" width="700" height="500">
-<img src="images/ss-2.png" alt="Logo" width="700" height="500">
+<img src="images/ss-1.jpg" alt="Logo" width="700" height="500">
+<img src="images/ss-2.jpg" alt="Logo" width="700" height="500">
+<img src="images/ss-3.jpg" alt="Logo" width="700" height="500">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
