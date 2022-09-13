@@ -38,6 +38,7 @@ youtube-clone-app
 * [![React][React.js]][React-url]
 * ![HTML5][HTML5]
 * [![MUI][MUI]][MUI-url]
+* ![React Router][React Router]
 
 
 
@@ -86,3 +87,4 @@ Utku Coşkun -  - utkucoskun1@gmail.com
 [MUI]: https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white&style=plastic&Width=30
 [MUI-url]: https://mui.com/
 [HTML5]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=plastic&Width=30
+[React Router]:https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&style=plastic&Width=30
