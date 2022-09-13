@@ -24,6 +24,8 @@ youtube-clone-app
 <img src="images/1.jpg" alt="Logo" width="700" height="500">
 <img src="images/2.jpg" alt="Logo" width="700" height="500">
 <img src="images/3.jpg" alt="Logo" width="700" height="500">
+<img src="images/4.jpg" alt="Logo" width="700" height="500">
+<img src="images/5.jpg" alt="Logo" width="700" height="500">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
