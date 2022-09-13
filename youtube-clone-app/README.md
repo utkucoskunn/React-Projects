@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">
@@ -49,21 +49,18 @@ youtube-clone-app
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Material UI
-    - [x] Material UI (MUI) sx prop
-    - [x] MUI Components
-    - [x] MUI Themes
-    - [x] Mui Layouts (Box, Container, Grid, Stack)
-    - [x] Mui Responsive Design
-    - [x] Mui App Bar (Navbar)
-    - [x] Mui Menu
-    - [x] Mui Sidebar
-    - [x] Mui Cards (Social Media Card Example)
-    - [x] Mui Right Menu
-    - [x] Mui Tooltip, Fab, Icons
-    - [x] Mui Modal 
-    - [x] Mui Dark Mode
-- [x] Fixing Bugs
+- [x] Creating Styled Components
+- [x] React Menu Design
+- [x] Dark Mode with React Styled Components
+- [x] React Navbar Design
+- [x] React Router Dom 6
+- [x] React Video Card Component
+- [x] React Router Dom Link
+- [x] React Video Page Design
+- [x] React Commends Component
+- [x] Styled Components Using Props
+- [x] Styled Components Hover Effect
+- [x] React Login Page design
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
